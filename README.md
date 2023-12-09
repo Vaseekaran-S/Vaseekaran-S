@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Vaseekaran(வசீகரன்)
+# Hello World! I'm Vaseekaran(வசீகரன்)
 
 A passionate Full Stack Developer from Thanjavur with expertise in building awesome web applications.
 
@@ -21,8 +21,12 @@ A passionate Full Stack Developer from Thanjavur with expertise in building awes
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaseekaran-S&show_icons=true&hide=contribs,prs)
 
+## 🏆 GitHub Trophies 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vaseekaran-S&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📫 Let's Connect!
 
 - LinkedIn: [Your LinkedIn Profile](https://github.com/Vaseekaran-S)
 
-Thanks for stopping by! Let's build something amazing together. 🚀
+Thanks for stopping by! Let's build something amazing together.
