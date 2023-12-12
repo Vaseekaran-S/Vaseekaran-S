@@ -2,12 +2,12 @@
 
 A passionate Full Stack Developer from Thanjavur with expertise in building awesome web applications.
 
-## 💼 What I do
+## What I do
 
-- 🌐 Frontend: HTML, CSS, JavaScript, React, Next.js
-- 🚀 Backend: Express, Node.js
+- Frontend: HTML, CSS, JavaScript, React, Next.js
+- Backend: Express, Node.js
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
@@ -17,15 +17,15 @@ A passionate Full Stack Developer from Thanjavur with expertise in building awes
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaseekaran-S&show_icons=true&hide=contribs,prs)
 
-## 🏆 GitHub Trophies 
+## GitHub Trophies 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vaseekaran-S&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 - LinkedIn: [Your LinkedIn Profile](https://github.com/Vaseekaran-S)
 
