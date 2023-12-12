@@ -4,9 +4,9 @@ A passionate Full Stack Developer from Thanjavur with expertise in building awes
 
 ## What I do
 
-- Frontend: HTML, CSS, JavaScript, React, Next.js
+- Frontend: HTML, CSS, JavaScript, React js, Next.js
 - Backend: Express, Node.js
-
+- Database: Mongo Db, MySQL
 ## Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
