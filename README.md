@@ -24,6 +24,6 @@ A passionate Full Stack Developer with expertise in building awesome user-friend
 
 ## Let's Connect!
 
-- LinkedIn: [Vaseekaran-S](https://www.linkedin.com/in/vaseekaran-saminathan/)
+- LinkedIn: [vaseekaran-saminathan](https://www.linkedin.com/in/vaseekaran-saminathan/)
 - Mail: [vaseekaransaminathan@gmail.com](mailto:vaseekaransaminathan@gmail.com)
   
