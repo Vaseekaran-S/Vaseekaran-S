@@ -7,6 +7,7 @@ A passionate Full Stack Developer with expertise in building awesome user-friend
 - Frontend: HTML, CSS, JavaScript, React js, Next.js
 - Backend: Express, Node.js
 - Database: Mongo Db, MySQL, Firebase
+  
 ## Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
