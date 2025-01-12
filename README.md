@@ -18,11 +18,6 @@ A passionate Full Stack Developer with expertise in building awesome user-friend
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-
-|  Stats      | Langs           | Streak  |
-|:-------------:|:-------------:|:-----:|
-| ![Vaseekaran's github stats](https://github-readme-stats.vercel.app/api?username=Vaseekaran-S&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D) | [![Vaseekaran's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaseekaran-S&layout=compact&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)](https://github.com/Vaseekaran-S?tab=repositories) | [![Vaseekaran's Streak](https://github-readme-streak-stats.herokuapp.com?user=Vaseekaran-S&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=74FF0A&background=2D2D2D&currStreakLabel=74FF0A&fire=74FF0A&sideLabels=74FF0A)](https://git.io/streak-stats) |
-
 ## Let's Connect!
 
 - Portfolio: [vaseekaran.vercel.app](https://vaseekaran.vercel.app/)
