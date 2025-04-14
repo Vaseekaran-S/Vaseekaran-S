@@ -4,8 +4,8 @@ A passionate Full Stack Developer with expertise in building awesome user-friend
 
 ## What I do
 
-- Frontend: HTML, CSS, JavaScript, React js, Next.js, Bootstrap, Tailwind CSS
-- Backend: Express Js, Node.js
+- Frontend: HTML, CSS, JavaScript, React Js, Next Js, Bootstrap, Tailwind CSS
+- Backend: Express Js, Node Js
 - Database: Mongo Db, MySQL, Firebase
   
 ## Tech Stack
