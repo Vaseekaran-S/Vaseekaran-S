@@ -1,4 +1,4 @@
-# வணக்கம், பிரபஞ்சம்! நான் வசீகரன்
+# Hello World, I am Vaseekaran
 
 A passionate Full Stack Developer with expertise in building awesome user-friendly web applications.
 
